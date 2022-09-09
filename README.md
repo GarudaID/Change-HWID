@@ -14,6 +14,7 @@
 <strong>+ Very fast execution (under 0.002ms!)</strong>
 <br>
 <strong>+ Easy to use</strong>
+<a href="https://github.com/GarudaID/Change-HWID/releases/tag/V.1">Release V.1</a>
 <br>
 
 -----
